@@ -1,0 +1,5 @@
+{"timestamp":401921,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":404484,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required"}}
+{"timestamp":409534,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":412844,"category":"nimbus_events","name":"exposure","extra":{"feature_id":"fxms-message-1","experiment":"recommend-add-ons-staff-pick-relaunch","branch":"treatment-a"}}
+{"timestamp":432674,"category":"nimbus_events","name":"is_ready"}
